@@ -1,4 +1,5 @@
 'use client'
+export const dynamic = "force-dynamic"
 import MagasinsGrid from '@/components/Magasin/MagasinGrid'
 import MagasinsHeader from '@/components/Magasin/MagHeader'
 import { PaginationMagasins } from '@/components/Magasin/PaginationMagasins'
