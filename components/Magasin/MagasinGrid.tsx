@@ -1,3 +1,4 @@
+'use client'
 import MagasinCard from "./MagasinCard"
 
 const magasins = Array(20).fill({
